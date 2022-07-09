@@ -11,7 +11,7 @@ I'm a Software Engineer student.
 <div align="left">
  
 ``` js
-const stebs = {
+const hebertt = {
     personal: {
         fullName: 'Hebertt Nascimento'
          birth: '01/28/1996'
@@ -19,14 +19,13 @@ const stebs = {
         motivation: [
             '',
             'Making life easier and smarter through tech',
-        ],
-    },
+     },
     technical: {
         technologies: {
             frontEnd: {
-                Javascript: ['Vanilla JS', 'React', 'Redux', 'Jest'],
+                Javascript: ['React', 'Redux', ],
                 HTML: ['HTML5', 'Semantic HTML'],
-                CSS: ['sass', 'styled-components', 'Bootstrap'],
+                CSS: ['styled-components', 'Bootstrap'],
             },
             backEnd: {
                 Javascript: ['Node.js', 'Express']
