@@ -17,7 +17,7 @@ const hebertt = {
          birth: '01/28/1996'
         interests: ['music', 'games', 'language learning', 'and more'],
         motivation: [
-            '',
+            
             'Making life easier and smarter through tech',
      },
     technical: {
