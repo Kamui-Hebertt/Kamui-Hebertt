@@ -15,7 +15,7 @@ const hebertt = {
     personal: {
         fullName: 'Hebertt Nascimento'
          birth: '01/28/1996'
-        interests: ['music', 'games', 'language learning', 'and more'],
+        interests: ['music', 'games', 'languages', 'and more'],
         motivation: [
             
             'Making life easier and smarter through tech',
@@ -28,7 +28,7 @@ const hebertt = {
                 CSS: ['styled-components', 'Bootstrap'],
             },
             backEnd: {
-                Javascript: ['Node.js', 'Express']
+                Javascript: ['Node.js']
             },
             
         },
@@ -36,6 +36,6 @@ const hebertt = {
 }
 ```
   </div>
-</details>
+
 
 
