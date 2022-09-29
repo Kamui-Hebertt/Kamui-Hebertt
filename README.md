@@ -6,9 +6,7 @@
 
 I'm a Software Engineer student.
 
-<details>
-  <summary> More about me</summary>
-<div align="left">
+
  
 ``` js
 const hebertt = {
