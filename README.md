@@ -6,7 +6,7 @@
 
 I'm a Software Engineer student.
 
-<details>
+
   
 <div align="left">
  
