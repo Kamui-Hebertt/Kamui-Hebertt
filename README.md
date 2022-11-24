@@ -23,7 +23,7 @@ const hebertt = {
     technical: {
         technologies: {
             frontEnd: {
-                Javascript: ['React', 'Redux', ],
+                Javascript: ['React', 'Redux', 'Context-API', 'Jest', 'RTL' ],
                 HTML: ['HTML5', 'Semantic HTML'],
                 CSS: ['styled-components', 'Bootstrap'],
             },
