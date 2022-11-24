@@ -40,7 +40,7 @@ const hebertt = {
 <p align="left">
  
   <a href="www.linkedin.com/in/hebertt-nascimento" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/hebertt-nascimento" /></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
  
 </p>  
