@@ -37,12 +37,8 @@ const hebertt = {
 ```
   </div>
 
-<p align="left">
+
  
-  <h3 align="left">Would you like to find me?</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hebertt-nascimento" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kamui" /></a>
-</p>  
 <h3 >Technologies and tools:</h3>
 <table width="320px">
     <tbody>
@@ -117,5 +113,9 @@ const hebertt = {
         </tr>
     </tbody>
 </table>
+  
+   <h3 align="left">Would you like to find me?</h3>
+<p align="left">
+<a href="https://linkedin.com/in/hebertt-nascimento" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kamui" /></a>
 
 
