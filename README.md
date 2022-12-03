@@ -85,11 +85,11 @@ const hebertt = {
         <tr valign="top">
             <td width="80px" align="center">
             <span><strong>Sass</strong></span><br>
-            <img height="32" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/121px-Sass_Logo_Color.svg.png">
+            <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/121px-Sass_Logo_Color.svg.png" />
             </td>
             <td width="80px" align="center">
             <span><strong>Vs Code</strong></span><br>
-            <img height="32px" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Visual_Studio_Code_Insiders_1.36_icon.svg/220px-Visual_Studio_Code_Insiders_1.36_icon.svg.png">
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Visual_Studio_Code_Insiders_1.36_icon.svg/220px-Visual_Studio_Code_Insiders_1.36_icon.svg.png" />
             </td>
             <td width="80px" align="center">
             <span><strong>Node</strong></span><br>
