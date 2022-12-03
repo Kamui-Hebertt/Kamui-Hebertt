@@ -39,10 +39,9 @@ const hebertt = {
 
 <p align="left">
  
-  <a href="www.linkedin.com/in/hebertt-nascimento" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-
- 
+  <h3 align="left">Would you like to find me?</h3>
+<p align="left">
+<a href="www.linkedin.com/in/hebertt-nascimento" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kamui" /></a>
 </p>  
 <h3 align="left">Technologies and tools:</h3>
 <table width="320px">
