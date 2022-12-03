@@ -45,3 +45,4 @@ const hebertt = {
  
 </p>  
 
+![Snake animation](https://github.com/Kamui-Hebertt/Kamui-Hebertt/blob/output/github-contribution-grid-snake.svg)
