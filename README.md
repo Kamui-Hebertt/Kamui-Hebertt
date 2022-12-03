@@ -44,4 +44,5 @@ const hebertt = {
 
  
 </p>  
-![Snake animation](https://github.com/Kamui-Hebertt/Kamui-Hebertt/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
