@@ -25,7 +25,7 @@ const hebertt = {
             frontEnd: {
                 Javascript: ['React', 'Redux', 'Context-API', 'Jest', 'RTL' ],
                 HTML: ['HTML5', 'Semantic HTML'],
-                CSS: ['styled-components', 'Bootstrap'],
+                CSS: ['Sass', 'Bootstrap'],
             },
             backEnd: {
                 Javascript: ['Node.js']
