@@ -23,13 +23,18 @@ const hebertt = {
     technical: {
         technologies: {
             frontEnd: {
-                Javascript: ['React', 'Redux', 'Context-API', 'Jest', 'RTL' ],
+                Javascript: ['React', 'Redux', 'Context-API', 'Jest', 'RTL',  ],
                 HTML: ['HTML5', 'Semantic HTML'],
-                CSS: ['Sass', 'Bootstrap'],
+                CSS: ['Scss', 'Bootstrap' ,'Styled components'],
             },
             backEnd: {
-                Javascript: ['Node.js']
+                Javascript: ['Node.js'],
+                DataBase: ['Mysql']
             },
+            learnig: {
+                Javascript: ['React Native']
+            },
+            
             
         },
     }
